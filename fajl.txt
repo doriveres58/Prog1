@@ -1,0 +1,10 @@
+bmw 1 30.243
+audi 2 21.97
+subaru 3 64.67
+honda 4 25.3
+lada 5 87.565
+nissan 6 33.43
+toyota 7 55.11
+tesla 8 54.9
+porsche 9 34.7
+kia 10 54.2
